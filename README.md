@@ -18,9 +18,11 @@ A simple quiz app built with React Native (Expo). The app shows a picture of a f
 
 # ScreenShots of App
 
-Screenshots: <br>
+top page Screenshots: <br>
 <img alt="Screenshot_20261105_124913.png" src="Screenshots/Screenshot_20261105_124913.png"/>
+bottom page screenshots: <br>
 <img alt="Screenshot_20261105_125027.png" src="Screenshots/Screenshot_20261105_125027.png"/>
+Result screenshot;<br>
 <img alt="Screenshot_20261105_125111.png" src="Screenshots/Screenshot_20261105_125111.png"/>
 
 
